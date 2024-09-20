@@ -65,7 +65,7 @@
 <!-- Markdown Image -->
 <div style="display: flex; flex-wrap: wrap;">
     <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" width="50" />
-    <img alt="Image Alt Text" src="[https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png](https://learn.microsoft.com/api/achievements/share/en-gb/MuhammedColley/W75RH4ZN?sharingId=409739CB21748254)" width="50" /
+    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png width="50" /
   
     <!-- Add more images here -->
 </div>
