@@ -65,13 +65,8 @@
 <!-- Markdown Image -->
 <div style="display: flex; flex-wrap: wrap;">
     <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/describe-cloud-service-types.svg" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/provision-and-manage-azure-cognitive-services.svg" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/explore-natural-language-processing.svg" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-artificial-intelligence-on-azure.svg" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/explore-computer-vision-microsoft-azure.svg" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" width="50" />
+    <img alt="Image Alt Text" src="[https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png](https://learn.microsoft.com/api/achievements/share/en-gb/MuhammedColley/W75RH4ZN?sharingId=409739CB21748254)" width="50" /
+  
     <!-- Add more images here -->
 </div>
 
