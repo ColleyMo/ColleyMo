@@ -65,7 +65,7 @@
 <!-- Markdown Image -->
 <div style="display: flex; flex-wrap: wrap;">
     <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" width="50" />
-    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" width="50" />
+    <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-learn-challenge-build-2024-badge.png" width="50" />
 </div>
 
 ###
