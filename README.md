@@ -1,6 +1,5 @@
 <h2 align="left"> 💫 About Me: </h2>
-🔭 I’m currently a MSc Artificial Intelligence Student <br>🤝 I’m looking for help with Ai & ML internships<br>🌱 I’m currently learning Computer vision (Open-cv)<br>💬 Ask me about anything Tech :)<br>⚡ Fun fact:  I am a big football Fan
-###
+🔭 I’m currently a MSc Artificial Intelligence Student <br>🤝 I’m looking for help with Ai & ML internships<br>🌱 I’m currently learning Computer vision (Open-cv)<br>💬 Ask me about anything Tech :)<br>⚡ Fun fact:  I Modelled for Berghaus aw24 collection
 
 <h2 align="left"> Contact me: </h2>
 <div align="left">
