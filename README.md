@@ -60,14 +60,12 @@
 ###
 
 ###
-<h2 align="left">🏆 Microsoft Learn Badges </h2>
+<h2 align="left">🏆 Microsoft Learn Challenges </h2>
  
 <!-- Markdown Image -->
 <div style="display: flex; flex-wrap: wrap;">
     <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" width="50" />
     <img alt="Image Alt Text" src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png width="50" />
-  
-    <!-- Add more images here -->
 </div>
 
 ###
