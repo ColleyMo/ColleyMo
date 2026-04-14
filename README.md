@@ -1,5 +1,5 @@
 # 💫 About Me:
-MSc Artificial Intelligence Graduate | Technologist, Digital Transformation & AI innovation Enthusiast
+MSc Artificial Intelligence Graduate | Technologist, Digital Transformation & AI Enthusiast
 
 
 ## 🌐 Socials:
